@@ -30,8 +30,16 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ## Решение
 
+Задание1.3 Скриншот
+
 ![Задание1.3Скриншот](https://github.com/Easyjetz/12-02.md/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.3%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82.png)
+
+Задание1.5 Скриншот
+
 ![Задание1.5Скриншот](https://github.com/Easyjetz/12-02.md/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.5%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82.png)
+
+Задание1.8 Скриншот
+
 ![Задание1.8Скриншот](https://github.com/Easyjetz/12-02.md/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.8%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82.png)
 ---
 
